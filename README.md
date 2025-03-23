@@ -28,6 +28,3 @@ Pharmacy student at Baddi University of Emerging Sciences & Technology, Himachal
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me!*
-
-
