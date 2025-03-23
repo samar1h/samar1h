@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Samarth 👋
 
-<!--
-**samar1h/samar1h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pharmacy student at Baddi University of Emerging Sciences & Technology, Himachal Pradesh.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Currently studying pharmacy
+- 🌱 Passionate about learning and growing in my field
+- 💻 Interested in building projects to showcase my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samar1h)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samar1h)
+
+## GitHub Stats
+![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samar1h&show_icons=true&theme=dark)
+
+---
+
+⭐️ Thanks for visiting my profile ⭐️
